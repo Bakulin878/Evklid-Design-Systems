@@ -5,4 +5,4 @@
 > #### Стек технологий:
 > HTML5, CSS3,
 
-![alt text](images\Lionic.png)
+![alt text](images\Lionic.webp.)
